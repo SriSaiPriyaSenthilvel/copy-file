@@ -28,9 +28,6 @@ f1.close()
 f2.close()
 ```
 ### OUTPUT:
-![output](/Screenshot%20from%202023-01-28%2012-24-30.png)
- 
- ![output](/Screenshot%20from%202023-01-28%2012-25-13.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
