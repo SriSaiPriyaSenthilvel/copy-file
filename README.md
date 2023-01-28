@@ -29,7 +29,7 @@ f2.close()
 ```
 ### OUTPUT:
 
-![output](./ray1.png)
+![output](./out1.png)
 ![output](./ray123.png)
 
 ## RESULT:
