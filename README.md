@@ -5,17 +5,23 @@ To write a python program for copying the contents from one file to another file
 PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
-### Step 1: Open the first file in read mode.
+### Step 1:
+Open the first file in read mode.
 
-### Step 2: Open the second file in append mode.
+### Step 2:
+Open the second file in append mode.
  
-### Step 3: Every word in the first file is copied to second file using write().
+### Step 3:
+Every word in the first file is copied to second file using write().
 
-### Step 4: Close the first file.
+### Step 4:
+Close the first file.
 
-### Step 5: Close the second file.
+### Step 5:
+Close the second file.
 
-### Step 6: End the program.
+### Step 6: 
+End the program.
 
 ## PROGRAM:
 ```
@@ -29,9 +35,6 @@ for line in f1:
     f1.close()
     f2.close()
 ```
-
-
-
 
 ### OUTPUT:
  
