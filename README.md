@@ -30,6 +30,9 @@ for line in f1:
     f2.close()
 ```
 
+
+
+
 ### OUTPUT:
  
  ![output](/Screenshot%20from%202023-01-28%2012-25-13.png)
